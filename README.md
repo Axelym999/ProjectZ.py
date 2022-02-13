@@ -11,3 +11,5 @@ ProjZ.py is a python api for communicating with projectz servers while pretendin
 You'll need Python 3 to use it, I recommend using Python 3.6 or earlier to use the library.
 To install it just open the command line and type out this command `python3 -m pip install ProjZ.py`
 If you have any questions ask them on the support discord server [link here](https://rebrand.ly/slimakoi-and-friends)
+
+<img alt="ProjectZ" width="1000" src="https://im5.ezgif.com/tmp/ezgif-5-8042e87fbe.gif">
