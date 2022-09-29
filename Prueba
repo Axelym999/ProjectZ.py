@@ -1,0 +1,6 @@
+P_dAcceso=input(Ingrese la palabra clave: ")
+if P_dAcceso=="Arbitro":
+Pj1=input("Ingrese su nombre jugador 1: ")
+Pj2=input("Ingrese su nombre jugador 2: ")
+if Pj1 and Pj2!= " ":
+print(Pj1+20 "HP" , Pj2+20 "HP")
